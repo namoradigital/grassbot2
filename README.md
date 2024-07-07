@@ -1,5 +1,5 @@
 # grass-bot Grass Bot Auto Mining (MULTI AKUN)
-Donate and Support : 0xde260429ef7680c7a43e855b5fcf619948f34e2a
+
 
 ## Create Account Jika Belum Punya
 
@@ -17,8 +17,8 @@ sudo apt install python3 python3-pip
 ## Clone GitHub
 
 ```
-git clone https://github.com/jamikoas/grass-bot.git
-cd grass-bot
+git clone https://github.com/jamikoas/grass-bot.git](https://github.com/namoradigital/grassbot2.git
+cd grassbot2
 ```
 
 ```
