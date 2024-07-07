@@ -18,7 +18,7 @@ sudo apt install python3 python3-pip
 ## Clone GitHub
 
 ```
-git clone https://github.com/jamikoas/grass-bot.git](https://github.com/namoradigital/grassbot2.git
+git clone https://github.com/namoradigital/grassbot2.git
 cd grassbot2
 ```
 
