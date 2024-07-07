@@ -1,5 +1,5 @@
 
-# grass-bot Grass Bot Auto Mining
+# Grass Bot Auto Mining
 
 
 ## Create Account Jika Belum Punya
