@@ -30,6 +30,8 @@ pip install -r requirements.txt
 ```
 nano users.txt
 ```
+get USERID
+Press F12 => Console => ketik allow pasting => trus ketik localStorage.getItem('userId')
 
 Ganti Dengan User ID Akun Grass Kalian dan Save CTRL X Y Enter
 
